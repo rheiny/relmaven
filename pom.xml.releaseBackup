@@ -6,8 +6,8 @@
   <packaging>jar</packaging>
   
   <scm>
-  	<developerConnection>scm:git:git@github.com:rheiny/relmaven.git</developerConnection>
-  	<tag>v0.0.1</tag>
+  	<developerConnection>scm:git:https://github.com/rheiny/relmaven.git</developerConnection>
+  	<tag>HEAD</tag>
   	<url>https://github.com/rheiny/relmaven.git</url>
   </scm>
   
