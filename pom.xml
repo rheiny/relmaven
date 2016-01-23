@@ -7,7 +7,7 @@
   
   <scm>
   	<developerConnection>scm:git:git@github.com:rheiny/relmaven.git</developerConnection>
-  	<tag>v.${project.version}</tag>
+  	<tag>v${project.version}</tag>
   	<url>https://github.com/rheiny/relmaven.git</url>
   </scm>
   
