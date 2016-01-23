@@ -2,12 +2,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>de.gerster.maven</groupId>
   <artifactId>relmaven</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   
   <scm>
   	<developerConnection>scm:git:git@github.com:rheiny/relmaven.git</developerConnection>
-  	<tag>v0.0.1</tag>
+  	<tag>v.${project.version}</tag>
   	<url>https://github.com/rheiny/relmaven.git</url>
   </scm>
   
